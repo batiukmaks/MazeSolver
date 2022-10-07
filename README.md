@@ -1,4 +1,4 @@
-# Maze solver
+# MazeSolver
 ## Description
 This is a program that finds a path in a maze between two points.
 Along the way, the program shows every step of the searching algorithm.
